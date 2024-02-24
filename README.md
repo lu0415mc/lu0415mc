@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World !!!<br><br>😄 Pronouns me as /ALLTIMEHAPPYBOY/<br>💻 Full-stack Developer with + 10 years<br>🌱 Learning Blockchain Technology<br>🔭 Exploring ML in AI<br>⚡ Empowering Custom Software Solutions<br>🏛 Lead Full Stack Developer at MetaXols<br>🎓 CS Graduate of Standford University
+Hello World !!!<br><br>😄 Pronouns me as /ALLTIMEHAPPYBOY/<br>💻 Full-stack Developer with + 10 years<br>🌱 Learning Blockchain Technology<br>🔭 Exploring ML in AI<br>⚡ Empowering Custom Software Solutions<br>🏛 Lead Full Stack Develope at IBM Austria<br>🎓 CS Graduate of Standford University
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
 
 
