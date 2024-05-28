@@ -27,10 +27,6 @@
   💬 Ask me about <b>C#, JS/TS, AI, ML, ChatGPT</b> 📫 How to reach me
   <b>dev0529.service@gmail.com</b>
 </div>
-<div align="center">
-  <img src="./download.gif" alt="ai" />
-</div>
-
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
