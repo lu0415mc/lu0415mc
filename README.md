@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm SlyFox0415</h1>
 <hr />
-<h3 align="center">AI Specialist , Backend Developer , and IT consultant</h3>
+<h3 align="center">AI Specialist ,Frontend & Backend Developer , and IT consultant</h3>
 
 <p align="center">
   <a href="https://github.com/SlyFox0415" alt="Slyfox0415's GitHub">
