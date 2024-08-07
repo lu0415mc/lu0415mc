@@ -24,7 +24,7 @@
 </p>
 
 <div align="center">
-  💬 Ask me about <b>AI, ML, ChatGPT, C#, JS/TS</b> 📫 How to reach me
+  💬 Ask me about <b>AI, ML, OpenAI, Claude</b> 📫 How to reach me
   <b>dev0529.service@gmail.com</b>
 </div>
 <h3 align="center">Languages and Tools</h3>
