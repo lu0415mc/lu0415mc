@@ -22,11 +22,6 @@
       alt="pawanosman"
   /></a>
 </p>
-
-<div align="center">
-  💬 Ask me about <b>AI, ML, OpenAI, Claude</b> 📫 How to reach me
-  <b>dev0529.service@gmail.com</b>
-</div>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
